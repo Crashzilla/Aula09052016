@@ -17,7 +17,7 @@ public class Cavalo implements Runnable{
 				Thread.sleep((int)(Math.random() * 5000));
 				System.out.println(nome + " " + i);
 			}
-			System.out.println("=============" + nome + " cruzou a linha de chegada. ===============");
+			System.out.println("============ " + nome + " cruzou a linha de chegada. ============");
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

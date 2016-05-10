@@ -4,12 +4,11 @@ public class Testes {
 	
 	public static void main (String[] args){
 		
-		
-			Cavalo c1 = new Cavalo("Raio");
-			Cavalo c2 = new Cavalo("Trovão");
-			Cavalo c3 = new Cavalo("Relampago");
-			Cavalo c4 = new Cavalo("Eletricidade");
-			Cavalo c5 = new Cavalo("Vencedor");
+			/*Cavalo c1 = new Cavalo("SuperBestFriends");
+			Cavalo c2 = new Cavalo("PlagueofGripes");
+			Cavalo c3 = new Cavalo("Team4Stars");
+			Cavalo c4 = new Cavalo("CranckyConstruct");
+			Cavalo c5 = new Cavalo("GreatBlackOtaku");
 			
 			Thread t1 = new Thread(c1);
 			Thread t2 = new Thread(c2);
@@ -21,6 +20,6 @@ public class Testes {
 			t2.start();
 			t3.start();
 			t4.start();
-			t5.start();
+			t5.start();*/
 	}
 }
